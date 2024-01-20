@@ -1,4 +1,5 @@
 Content
+
 price price in US dollars ($326--$18,823)
 
 carat weight of the diamond (0.2--5.01)
